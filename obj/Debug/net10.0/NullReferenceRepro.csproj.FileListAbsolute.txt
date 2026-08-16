@@ -1,0 +1,14 @@
+/Users/testreco/Downloads/NullReferenceRepro/bin/Debug/net10.0/NullReferenceRepro
+/Users/testreco/Downloads/NullReferenceRepro/bin/Debug/net10.0/NullReferenceRepro.deps.json
+/Users/testreco/Downloads/NullReferenceRepro/bin/Debug/net10.0/NullReferenceRepro.runtimeconfig.json
+/Users/testreco/Downloads/NullReferenceRepro/bin/Debug/net10.0/NullReferenceRepro.dll
+/Users/testreco/Downloads/NullReferenceRepro/bin/Debug/net10.0/NullReferenceRepro.pdb
+/Users/testreco/Downloads/NullReferenceRepro/obj/Debug/net10.0/NullReferenceRepro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/testreco/Downloads/NullReferenceRepro/obj/Debug/net10.0/NullReferenceRepro.AssemblyInfoInputs.cache
+/Users/testreco/Downloads/NullReferenceRepro/obj/Debug/net10.0/NullReferenceRepro.AssemblyInfo.cs
+/Users/testreco/Downloads/NullReferenceRepro/obj/Debug/net10.0/NullReferenceRepro.csproj.CoreCompileInputs.cache
+/Users/testreco/Downloads/NullReferenceRepro/obj/Debug/net10.0/NullReferenceRepro.dll
+/Users/testreco/Downloads/NullReferenceRepro/obj/Debug/net10.0/refint/NullReferenceRepro.dll
+/Users/testreco/Downloads/NullReferenceRepro/obj/Debug/net10.0/NullReferenceRepro.pdb
+/Users/testreco/Downloads/NullReferenceRepro/obj/Debug/net10.0/NullReferenceRepro.genruntimeconfig.cache
+/Users/testreco/Downloads/NullReferenceRepro/obj/Debug/net10.0/ref/NullReferenceRepro.dll

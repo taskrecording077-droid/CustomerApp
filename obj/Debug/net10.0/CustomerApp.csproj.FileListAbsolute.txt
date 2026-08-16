@@ -1,0 +1,14 @@
+/Users/testreco/Downloads/CustomerApp/bin/Debug/net10.0/CustomerApp
+/Users/testreco/Downloads/CustomerApp/bin/Debug/net10.0/CustomerApp.deps.json
+/Users/testreco/Downloads/CustomerApp/bin/Debug/net10.0/CustomerApp.runtimeconfig.json
+/Users/testreco/Downloads/CustomerApp/bin/Debug/net10.0/CustomerApp.dll
+/Users/testreco/Downloads/CustomerApp/bin/Debug/net10.0/CustomerApp.pdb
+/Users/testreco/Downloads/CustomerApp/obj/Debug/net10.0/CustomerApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/testreco/Downloads/CustomerApp/obj/Debug/net10.0/CustomerApp.AssemblyInfoInputs.cache
+/Users/testreco/Downloads/CustomerApp/obj/Debug/net10.0/CustomerApp.AssemblyInfo.cs
+/Users/testreco/Downloads/CustomerApp/obj/Debug/net10.0/CustomerApp.csproj.CoreCompileInputs.cache
+/Users/testreco/Downloads/CustomerApp/obj/Debug/net10.0/CustomerApp.dll
+/Users/testreco/Downloads/CustomerApp/obj/Debug/net10.0/refint/CustomerApp.dll
+/Users/testreco/Downloads/CustomerApp/obj/Debug/net10.0/CustomerApp.pdb
+/Users/testreco/Downloads/CustomerApp/obj/Debug/net10.0/CustomerApp.genruntimeconfig.cache
+/Users/testreco/Downloads/CustomerApp/obj/Debug/net10.0/ref/CustomerApp.dll
