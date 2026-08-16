@@ -12,3 +12,4 @@
 /Users/testreco/Downloads/CustomerApp/obj/Debug/net10.0/CustomerApp.pdb
 /Users/testreco/Downloads/CustomerApp/obj/Debug/net10.0/CustomerApp.genruntimeconfig.cache
 /Users/testreco/Downloads/CustomerApp/obj/Debug/net10.0/ref/CustomerApp.dll
+/Users/testreco/Downloads/CustomerApp/obj/Debug/net10.0/CustomerApp.sourcelink.json

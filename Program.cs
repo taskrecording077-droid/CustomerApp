@@ -25,11 +25,7 @@ public class CustomerRepository
 {
     public Customer? GetCustomer(int customerId)
     {
-        if (customerId == 42)
-        {
-            // Simulates a failed lookup or a missing object initialization.
-            return null;
-        }
+        
 
         return new Customer
         {
